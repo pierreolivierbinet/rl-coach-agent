@@ -2449,6 +2449,7 @@ name = "rl-coach-agent"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "google-genai" },
     { name = "pandas" },
     { name = "psycopg2-binary" },
     { name = "pydantic-ai" },
@@ -2458,6 +2459,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "google-genai", specifier = ">=0.1.2" },
     { name = "pandas", specifier = ">=3.0.1" },
     { name = "psycopg2-binary", specifier = ">=2.9.11" },
     { name = "pydantic-ai", specifier = ">=1.66.0" },
