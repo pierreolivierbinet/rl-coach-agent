@@ -1,0 +1,14 @@
+# Environment files
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Data
+data/raw/
+
+# IDE/OS
+.vscode/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
