@@ -104,7 +104,7 @@ def main():
         # 365 BPM / 1454 Speed = 0.25 (or 25.0 scaled). Threshold of > 10 scaled means > 0.1 ratio.
         # It was returning 0.25 without scaling, so a check for > 10 wasn't triggering.
         if efficiency > 10:
-            print("\nWARNING: High boost consumption detected relative to speed. You might be wasting boost!")
+            print("\nWARNING: High boost consumption detected relative to speed. You may be wasting boost!")
     else:
         print("Could not calculate Boost-to-Speed Efficiency: Avg speed is zero or missing.")
 

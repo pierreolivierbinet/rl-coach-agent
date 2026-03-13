@@ -1,207 +1,290 @@
 {
   "metadata": {
-    "group_id": "boston-major-lmcyznv2de",
-    "group_name": "Boston Major",
-    "date": "2026-03-06T11:48:12Z",
+    "mode": "3v3",
+    "date": "2026-03-06T12:28:28Z",
+    "groups": [
+      {
+        "id": "boston-major-lmcyznv2de",
+        "name": "Boston Major"
+      }
+    ],
     "player_count": 39,
     "players": [
       {
         "name": "2Piece",
         "team": "VIRTUS.PRO",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "ApparentlyJack",
         "team": "GK ESPORTS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 15
       },
       {
         "name": "Archie",
         "team": "GENTLE MATES",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 20
       },
       {
         "name": "Atomic",
         "team": "NRG ESPORTS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 19
       },
       {
         "name": "Atow",
         "team": "KARMINE CORP",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 24
       },
       {
         "name": "BeastMode",
         "team": "NRG ESPORTS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 19
       },
       {
         "name": "Chronic",
         "team": "SPACESTATION",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 11
       },
       {
         "name": "Daniel",
         "team": "NRG ESPORTS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 19
       },
       {
         "name": "ExoTiiK",
         "team": "TEAM VITALITY",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 23
       },
       {
         "name": "Fiberr",
         "team": "PWR",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 4
       },
       {
         "name": "Firstkiller",
         "team": "REBELLION",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "Joreuz",
         "team": "NIP",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "Joyo",
         "team": "GK ESPORTS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 15
       },
       {
         "name": "Kiileerrz",
         "team": "TEAM FALCONS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 26
       },
       {
         "name": "Lj",
         "team": "REBELLION",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "Lostt.",
         "team": "FURIA",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 10
       },
       {
         "name": "M0nkey M00n",
         "team": "TWISTED MINDS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 9
       },
       {
         "name": "Nwpo",
         "team": "TWISTED MINDS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 9
       },
       {
         "name": "Oski",
         "team": "GENTLE MATES",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 20
       },
       {
         "name": "Rw9",
         "team": "TEAM FALCONS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 26
       },
       {
         "name": "Seikoo",
         "team": "GK ESPORTS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 15
       },
       {
         "name": "Superlachie",
         "team": "PWR",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 4
       },
       {
         "name": "Wahvey",
         "team": "VIRTUS.PRO",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "cRR",
         "team": "NIP",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "diaz",
         "team": "SPACESTATION",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 11
       },
       {
         "name": "dralii",
         "team": "TEAM FALCONS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 26
       },
       {
         "name": "gus",
         "team": "PWR",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 4
       },
       {
         "name": "juicy",
         "team": "KARMINE CORP",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 24
       },
       {
         "name": "kofyr",
         "team": "REBELLION",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "nass",
         "team": "GENTLE MATES",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 20
       },
       {
         "name": "oaly",
         "team": "NIP",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "reveal",
         "team": "SPACESTATION",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 11
       },
       {
         "name": "stizzy",
         "team": "TEAM VITALITY",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 23
       },
       {
         "name": "swiftt./",
         "team": "FURIA",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 10
       },
       {
         "name": "tawk",
         "team": "VIRTUS.PRO",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 13
       },
       {
         "name": "trk511",
         "team": "TWISTED MINDS",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 9
       },
       {
         "name": "vatira",
         "team": "KARMINE CORP",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 24
       },
       {
         "name": "yANXNZ^^",
         "team": "FURIA",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 10
       },
       {
         "name": "zen",
         "team": "TEAM VITALITY",
+        "group_id": "boston-major-lmcyznv2de",
+        "group_name": "Boston Major",
         "games": 23
       }
     ],
-    "description": "Per-game average stats across all pro players in this group. Each metric mirrors a column in the player_stats PostgreSQL table."
+    "description": "Per-game average stats across all pro players in the 3v3 reference groups. Each metric key mirrors a column in the player_stats PostgreSQL table."
   },
   "averages": {
     "core_shots": 2.794028,

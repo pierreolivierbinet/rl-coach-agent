@@ -10,5 +10,7 @@ dependencies = [
     "psycopg2-binary>=2.9.11",
     "pydantic-ai>=1.66.0",
     "python-dotenv>=1.2.2",
+    "reflex>=0.8.27",
     "requests>=2.32.5",
+    "watchdog>=6.0.0",
 ]

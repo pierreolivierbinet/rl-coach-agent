@@ -80,5 +80,6 @@ CREATE TABLE IF NOT EXISTS player_stats (
     match_win BOOLEAN,
     match_duration INT,
     team_color VARCHAR(10),
+    playlist_id VARCHAR(50),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
