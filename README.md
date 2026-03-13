@@ -55,11 +55,11 @@ This project addresses the common issue of **LLM hallucinations** by implementin
 * Python 3.12+ (using `uv` is recommended)
 
 ### 3. Running the app
-# 1. Démarrer la base de données
+1.  **Start database**:
 docker compose up -d
 
-# 2. Lancer le Watcher de replays (dans un terminal séparé)
+2.  **Start replays watcher**:
 uv run python src/tools/replay_watcher.py
 
-# 3. Lancer l'interface Reflex (dans un autre terminal)
+3.  **Start Reflex interface**:
 uv run reflex run
