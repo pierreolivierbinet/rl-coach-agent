@@ -3,6 +3,7 @@ assets/external/
 .states
 .web
 *.db
+*.zip
 # Environment files
 .env
 .venv/

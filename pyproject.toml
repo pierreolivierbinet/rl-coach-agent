@@ -1,7 +1,7 @@
 [project]
 name = "rl-coach-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "Assistant de coaching Rocket League : agent RAG (pydantic-ai, Gemini) sur des métriques PostgreSQL et des benchmarks pros"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
